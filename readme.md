@@ -4,5 +4,10 @@ Este repositorio contiene el código fuente de la primera entrega del proyecto i
 
 Características Principales:
 
-Mensajes del negocio: La landing está diseñada para comunicar de manera efectiva los mensajes clave de "UrbanShades", presentando las ofertas BLACK FRIDAY.
-Catálogo de productos: Incluye un breve catálogo de los lentes de sol ofrecidos por "UrbanShades", proporcionando una visión general de la gama de productos disponibles. Diseño adaptable: El enfoque en la adaptabilidad móvil garantiza que la experiencia de usuario sea óptima, independientemente del dispositivo utilizado para acceder al sitio. Boceto de Prototipado Simple: Se incluye un boceto de prototipo inicial que representa la estructura básica y la disposición de los elementos en la landing.
+- Mensajes del negocio: La landing está diseñada para comunicar de manera efectiva los mensajes clave de "UrbanShades", presentando las ofertas BLACK FRIDAY.
+
+- Catálogo de productos: Incluye un breve catálogo de los lentes de sol ofrecidos por "UrbanShades", proporcionando una visión general de la gama de productos disponibles.
+
+- Diseño adaptable: El enfoque en la adaptabilidad móvil garantiza que la experiencia de usuario sea óptima, independientemente del dispositivo utilizado para acceder al sitio.
+
+- Boceto de Prototipado Simple: Se incluye un boceto en la carpeta "img" de prototipo inicial que representa la estructura básica y la disposición de los elementos en la landing.
