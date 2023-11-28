@@ -5,7 +5,7 @@
     --primary-dark:#1d1c1c;
     --primary-light:#ffffff;
     --secondary-main:#ffffff;
-    --secondary-dark: #707070;
+    --secondary-dark: #4b4b4b;
     --secondary-light: #ffffff;
     
     }
@@ -23,6 +23,8 @@
     
     .navbar{
         background-color: var(--primary-main) !important; /* Color fondo enlaces de nabvar*/
+    
+        
         
     }
     
@@ -51,22 +53,27 @@
     .nav-logo{
         height:40px;
         margin-right: 26px;
+        margin-top: 10px;
+        margin-bottom: 10px;
         filter:brightness(3);
     };
     
     .navbar-nav .nav-item:first-child .nav-link {
       margin-left: 20px; 
+    
     }
     
     .navbar-text a.nav-link {
         margin-right: 20px; /* Cambia el valor según tu preferencia */
+        
+
       }
     
     .navbar-toggler{
         line-height: 1;
-        color: var(--secondary-light) !important;
-        background-color: var(--secondary-dark);
-        background: var(--secondary-main);
+        color: white !important;
+        background: white;
+        background: white;
     }
     
     .navbar-nav .nav-link {
@@ -481,4 +488,5 @@
             }
     
         }
+
     
